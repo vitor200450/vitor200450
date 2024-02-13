@@ -1,4 +1,9 @@
-### Hi there 👋
+# 👋 Olá! Meu nome é José Vitor, e no momento estou estudando tecnologia! Explorando o mundo do código e aprendendo constantemente.
+
+## Sobre Mim
+
+- 💻 Atualmente estou cursando Ciência da Computação na Universidade Estadual da Paraíba - Campus VII
+- 🌱 Estou em busca de sempre continuar aprendendo mais sobre as mais recentes tecnologias, mas eu tenho uma atenção especial para o desenvolvimento web.
 
 <!--
 **vitor200450/vitor200450** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
